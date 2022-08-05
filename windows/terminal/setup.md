@@ -5,3 +5,4 @@
 5. Install neovim and gcc usind `scoop install neovim gcc`
 6. Install oh-my-posh
 7. Setup as documented here: "https://docs.microsoft.com/en-us/windows/terminal/tutorials/custom-prompt-setup"
+8. Additional documentation: https://docs.microsoft.com/en-us/windows/terminal/customize-settings/profile-advanced
