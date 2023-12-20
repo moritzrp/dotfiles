@@ -1,0 +1,17 @@
+# Useful Extensions
+- Color Highlight
+- Better Comments
+- Book
+- ESLint
+- Angular Language Server
+- Even better TOML
+- Path Intellisense
+- Prettier
+- SQLite Viewer
+- Todo Tree
+- Docker
+- Django
+- Kubernetes
+- JSON Crack
+- Tailwind IntelliSense
+- 
